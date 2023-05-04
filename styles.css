@@ -1,2 +1,33 @@
+div.container-fluid{
+    width: 1200px;
+}
 
-/* Your CSS Code here. */
+.row {
+display: flex;
+}
+.row-1{
+    display: flex;
+    }
+
+.row-2{
+    display: fleex;
+justify-content: center;
+}
+
+img{
+width: 100px;
+height: 100px;
+margin: 6px;
+margin-top: 40px;
+}
+
+.row-1 img{
+position: relative;
+margin-left: 30px;
+left: 250px;
+}
+.row-2 img{
+position: relative;
+margin-left: 30px;
+left: 400px;
+}
