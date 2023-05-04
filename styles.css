@@ -1,16 +1,12 @@
+/* Your CSS Code here. */
 div.container-fluid{
     width: 1200px;
 }
 
-.row {
+.row,.row-2,.row-3,.row-4{
 display: flex;
 }
-.row-1{
-    display: flex;
-    }
-
-.row-2{
-    display: fleex;
+.row-4{
 justify-content: center;
 }
 
@@ -21,12 +17,12 @@ margin: 6px;
 margin-top: 40px;
 }
 
-.row-1 img{
+.row-2 img{
 position: relative;
 margin-left: 30px;
 left: 250px;
 }
-.row-2 img{
+.row-3 img{
 position: relative;
 margin-left: 30px;
 left: 400px;
